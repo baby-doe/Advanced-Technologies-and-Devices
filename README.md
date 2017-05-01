@@ -6,13 +6,15 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=917084401
 
 /icons/		Thumnails of the items in the Mod<br>
 
-==================================================================================
+=================================================================================
+
+DISCLAIMER :
 
 THIS MOD IS DELIVERED FREE OR CHARGE, AS IS, WITH NO GUARANTEES AT ALL - INCLUDING NO SUPPORT GUARANTEES
 
 USE AT YOUR OWN RISK
 
-==================================================================================
+=================================================================================
 
 AT&D Survival Pack. Skins, Items, Structures and more
 
