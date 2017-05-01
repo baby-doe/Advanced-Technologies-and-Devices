@@ -4,7 +4,9 @@ Released under the GNU GENERAL PUBLIC LICENSE V3 License, see license.txt for fu
 Released via the STEAM Workshop<br>
 http://steamcommunity.com/sharedfiles/filedetails/?id=917084401
 
-/icons/		Thumbnails of the items in the Mod
+/icons/			Thumbnails of the items in the Mod<br>
+/sources/ATD	All you need for doing the cooking<br>
+/resources/		Textures,meshes et al
 
 =================================================================================
 
