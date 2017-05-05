@@ -1,0 +1,12 @@
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Body_Desert.PrimalItemSkin_MilitaryCammoArmor_Body_Desert'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Body_Street.PrimalItemSkin_MilitaryCammoArmor_Body_Street'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Body_Woods.PrimalItemSkin_MilitaryCammoArmor_Body_Woods'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Gloves_Desert.PrimalItemSkin_MilitaryCammoArmor_Gloves_Desert'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Gloves_Street.PrimalItemSkin_MilitaryCammoArmor_Gloves_Street'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Gloves_Woods.PrimalItemSkin_MilitaryCammoArmor_Gloves_Woods'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Pants_Desert.PrimalItemSkin_MilitaryCammoArmor_Pants_Desert'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Pants_Street.PrimalItemSkin_MilitaryCammoArmor_Pants_Street'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Pants_Woods.PrimalItemSkin_MilitaryCammoArmor_Pants_Woods'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Shoes_Desert.PrimalItemSkin_MilitaryCammoArmor_Shoes_Desert'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Shoes_Street.PrimalItemSkin_MilitaryCammoArmor_Shoes_Street'" 1 100 0 
+cheat giveitem "Blueprint'/Game/ATD/ArmorSkins/MilitaryCammo/PrimalItemSkin_MilitaryCammoArmor_Shoes_Woods.PrimalItemSkin_MilitaryCammoArmor_Shoes_Woods'" 1 100 0 
